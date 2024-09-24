@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hasitha-surapareddy
 - 👀 I’m interested in Data science
-- 🌱 I’m currently learning Data visualization,SQL,Front-end
+- 🌱 I’m currently learning Data visualization,SQL,Front-end development
 - 📫 you can reach me through hasithasurapareddy@gmail.com
 - 😄 Pronouns: she/Her.
 - ⚡ Fun fact: Data science can be traced back to ancient civilizations.
